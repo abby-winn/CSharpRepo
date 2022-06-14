@@ -7,4 +7,7 @@ Console.WriteLine(“Worst Gift: A Sweater”);
 Console.WriteLine("Tommy Terry");
 Console.WriteLine("I don't remember the other questions :/");
 
-Console.WriteLine("Aman Amjad BCHS'24");
+
+
+
+Console.WriteLine("Money!");
